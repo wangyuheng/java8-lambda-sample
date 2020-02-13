@@ -1,2 +1,4 @@
-# java8-lambda-sample
+# java8 sample
+
 java 8 lambda with actual usage scenarios
+
